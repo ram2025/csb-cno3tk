@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ram2025.github.io/csb-cno3tk/static/css/main.8f183942.chunk.css",
+    "main.js": "https://ram2025.github.io/csb-cno3tk/static/js/main.e477abb8.chunk.js",
+    "main.js.map": "https://ram2025.github.io/csb-cno3tk/static/js/main.e477abb8.chunk.js.map",
+    "runtime-main.js": "https://ram2025.github.io/csb-cno3tk/static/js/runtime-main.3e351f14.js",
+    "runtime-main.js.map": "https://ram2025.github.io/csb-cno3tk/static/js/runtime-main.3e351f14.js.map",
+    "static/js/2.b3ba6976.chunk.js": "https://ram2025.github.io/csb-cno3tk/static/js/2.b3ba6976.chunk.js",
+    "static/js/2.b3ba6976.chunk.js.map": "https://ram2025.github.io/csb-cno3tk/static/js/2.b3ba6976.chunk.js.map",
+    "index.html": "https://ram2025.github.io/csb-cno3tk/index.html",
+    "static/css/main.8f183942.chunk.css.map": "https://ram2025.github.io/csb-cno3tk/static/css/main.8f183942.chunk.css.map",
+    "static/js/2.b3ba6976.chunk.js.LICENSE.txt": "https://ram2025.github.io/csb-cno3tk/static/js/2.b3ba6976.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e351f14.js",
+    "static/js/2.b3ba6976.chunk.js",
+    "static/css/main.8f183942.chunk.css",
+    "static/js/main.e477abb8.chunk.js"
+  ]
+}
